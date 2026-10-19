@@ -1,4 +1,4 @@
-AYMA STORE V2
-Replace index.html in the root of your GitHub repository with this index.html. Images are embedded; no assets folder is required.
-Model 1: plain. Model 2: assorted prints. Model 3: blue astronaut / pink rabbit.
-Prices and order sending remain unconfigured.
+AYMA STORE V3
+Upload index.html to the root of your existing GitHub repository and commit changes. Images are embedded.
+All models: 139 MAD each. Delivery: free. Quantity total: 139 x quantity.
+Order sending remains inactive until seller contact details are supplied.
