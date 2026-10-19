@@ -1,7 +1,4 @@
-AYMA STORE — GitHub Pages
-
-1. Extract the ZIP.
-2. Upload index.html, assets/ and .nojekyll to your repository root.
-3. GitHub Settings > Pages > Deploy from a branch > main > /(root) > Save.
-
-Orders are not sent yet. Prices, sizes, delivery terms and seller WhatsApp number must be supplied before sales activation.
+AYMA STORE V2
+Replace index.html in the root of your GitHub repository with this index.html. Images are embedded; no assets folder is required.
+Model 1: plain. Model 2: assorted prints. Model 3: blue astronaut / pink rabbit.
+Prices and order sending remain unconfigured.
