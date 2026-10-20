@@ -1,4 +1,6 @@
-AYMA STORE V10
-Update the existing Netlify project via Deploys using this extracted folder.
-Model 2 requires a drawing selection: Princesses, Spider-Man, Mickey/Minnie, Hello Kitty. Drawing is included in the existing Couleur column (color | drawing), so no Apps Script change is required.
-Other models do not require a drawing selection. Prices and order integration preserved.
+AYMA STORE V11 — multi-model orders
+Update your existing Netlify project via Deploys.
+Choose model/color/size/quantity, click Add to basket, then repeat for another model. Added items can be removed before submitting. Customer details are entered once. If basket is empty, submission uses the current selection.
+Each item is stored as a separate row in Commandes, sharing the same order reference prefix with -1, -2 etc. Sum their Total cells for the order total. Delivery remains free. No Apps Script update needed.
+Submission is sequential: failed batches keep confirmed progress and lock details; retry completes remaining items with the same IDs. Do not process incomplete orders until confirmed with customer.
+Prices: Model 1 119 MAD; Model 2 and 3 139 MAD.
